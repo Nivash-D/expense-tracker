@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Personal expense data (should never be committed)
+.expense_tracker/
+
+# IDE / OS junk
+.vscode/
+.DS_Store
+
+# Testing
+.pytest_cache/
+*.egg-info/
